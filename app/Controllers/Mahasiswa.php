@@ -69,7 +69,7 @@ class Mahasiswa extends ResourceController
      */
     public function new()
     {
-        //
+        //sss
     }
 
     /**
